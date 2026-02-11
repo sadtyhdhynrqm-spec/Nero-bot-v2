@@ -1,13 +1,13 @@
 {
   "antiInbox": false,
   "language": "ar",
-  "nickNameBot": "nero[🍓] 🖤",
+  "nickNameBot": "سينكو",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": [61586897962846],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": []
