@@ -2,7 +2,7 @@
 	"name": "Nerobot×goatbot",
 	"version": "1.5.35",
 	"description": "A simple Bot chat messenger bySIFO",
-	"start": "node index.js" 
+	"start": "node index.js",
 	"dependencies": {
 		"@distube/ytdl-core": "^4.13.3",
 		"axios": "^1.4.0",
