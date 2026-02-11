@@ -5,7 +5,7 @@
   "start": "node index.js",
   "dependencies": {
     "@distube/ytdl-core": "^4.14.1",
-    "axios": "^1.5.0",
+    "axios": "^1.6.5",
     "bcrypt": "^5.1.1",
     "canvas": "^2.11.2",
     "chalk": "^5.3.0",
@@ -13,7 +13,7 @@
     "child_process": "^1.0.2",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.7",
-    "discord-image-generation": "^1.5.0",
+    "discord-image-generation": "^1.4.25",
     "eta": "^1.12.4",
     "express": "^4.19.0",
     "express-fileupload": "^1.4.1",
@@ -42,7 +42,6 @@
     "sequelize": "^6.32.0",
     "socket.io": "^4.6.1",
     "sqlite3": "^5.1.6",
-    "srod-v2": "^1.0.2",
     "tinyurl": "^1.1.8",
     "totp-generator": "^0.0.14",
     "websocket-stream": "^5.5.3",
@@ -82,4 +81,4 @@
     "prompt-checkbox": "^2.3.0",
     "terser": "^5.19.0"
   }
-  }
+}
